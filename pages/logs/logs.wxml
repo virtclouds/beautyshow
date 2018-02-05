@@ -1,2 +1,0 @@
-<!--wxml-->
-<view> {{message}} </view>
